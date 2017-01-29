@@ -1,0 +1,256 @@
+<manifest alg="2" build="11" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1485652293422">
+  <folder name="css">
+    <file name="site_global.css" crc="422415861"/>
+    <file name="master_a-p_g_-maestra.css" crc="276022161" ref="manifesto-16:embarque-de-mar:index:brasil:las-carmelitas:about:doña-tota:delirio-display:divino:portfolio:ticket-to-fly:bardot:curriculum:pizza-break:palabras-de-aliento:contact:su-chicle-y-yo:delirio:el-mediador"/>
+    <file name="manifesto-16.css" crc="4015484694" ref="manifesto-16"/>
+    <file name="embarque-de-mar.css" crc="405107200" ref="embarque-de-mar"/>
+    <file name="index.css" crc="529277674" ref="index"/>
+    <file name="brasil.css" crc="4221506219" ref="brasil"/>
+    <file name="las-carmelitas.css" crc="9527803" ref="las-carmelitas"/>
+    <file name="about.css" crc="388706021" ref="about"/>
+    <file name="do_a-tota.css" crc="502147606" ref="doña-tota"/>
+    <file name="delirio-display.css" crc="490085412" ref="delirio-display"/>
+    <file name="divino.css" crc="472665200" ref="divino"/>
+    <file name="portfolio.css" crc="3783126405" ref="portfolio"/>
+    <file name="ticket-to-fly.css" crc="42877303" ref="ticket-to-fly"/>
+    <file name="bardot.css" crc="485476171" ref="bardot"/>
+    <file name="curriculum.css" crc="3921019756" ref="curriculum"/>
+    <file name="pizza-break.css" crc="366940616" ref="pizza-break"/>
+    <file name="palabras-de-aliento.css" crc="4157065541" ref="palabras-de-aliento"/>
+    <file name="contact.css" crc="3841600995" ref="contact"/>
+    <file name="su-chicle-y-yo.css" crc="4008640825" ref="su-chicle-y-yo"/>
+    <file name="delirio.css" crc="31177374" ref="delirio"/>
+    <file name="el-mediador.css" crc="4193410803" ref="el-mediador"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="3880902115" ref="index:about:portfolio:curriculum:contact:delirio:manifesto-16:las-carmelitas:divino:doña-tota:bardot:palabras-de-aliento:su-chicle-y-yo:embarque-de-mar:el-mediador:ticket-to-fly:pizza-break:brasil:delirio-display"/>
+    <file name="museutils.js" crc="521960461" ref="index:about:portfolio:curriculum:contact:delirio:manifesto-16:las-carmelitas:divino:doña-tota:bardot:palabras-de-aliento:su-chicle-y-yo:embarque-de-mar:el-mediador:ticket-to-fly:pizza-break:brasil:delirio-display"/>
+    <file name="jquery.watch.js" crc="56779320" ref="index:about:portfolio:curriculum:contact:delirio:manifesto-16:las-carmelitas:divino:doña-tota:bardot:palabras-de-aliento:su-chicle-y-yo:embarque-de-mar:el-mediador:ticket-to-fly:pizza-break:brasil:delirio-display"/>
+    <file name="jquery.musemenu.js" crc="397543671" ref="index:about:portfolio:curriculum:contact:delirio:manifesto-16:las-carmelitas:divino:doña-tota:bardot:palabras-de-aliento:su-chicle-y-yo:embarque-de-mar:el-mediador:ticket-to-fly:pizza-break:brasil:delirio-display"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about:portfolio:curriculum:contact:delirio:manifesto-16:las-carmelitas:divino:doña-tota:bardot:palabras-de-aliento:su-chicle-y-yo:embarque-de-mar:el-mediador:ticket-to-fly:pizza-break:brasil:delirio-display"/>
+  </folder>
+  <folder name="images">
+    <file name="u356-4.png" crc="3876652829" ref="index:about:portfolio:curriculum:contact:delirio:manifesto-16:las-carmelitas:divino:doña-tota:bardot:palabras-de-aliento:su-chicle-y-yo:embarque-de-mar:el-mediador:ticket-to-fly:pizza-break:brasil:delirio-display"/>
+    <file name="u373-4.png" crc="284650720" ref="index:about:portfolio:curriculum:contact:delirio:manifesto-16:las-carmelitas:divino:doña-tota:bardot:palabras-de-aliento:su-chicle-y-yo:embarque-de-mar:el-mediador:ticket-to-fly:pizza-break:brasil:delirio-display"/>
+    <file name="u382-4.png" crc="127945070" ref="index:about:portfolio:curriculum:contact:delirio:manifesto-16:las-carmelitas:divino:doña-tota:bardot:palabras-de-aliento:su-chicle-y-yo:embarque-de-mar:el-mediador:ticket-to-fly:pizza-break:brasil:delirio-display"/>
+    <file name="u396-4.png" crc="3786582279" ref="index:about:portfolio:curriculum:contact:delirio:manifesto-16:las-carmelitas:divino:doña-tota:bardot:palabras-de-aliento:su-chicle-y-yo:embarque-de-mar:el-mediador:ticket-to-fly:pizza-break:brasil:delirio-display"/>
+    <file name="u409-4.png" crc="510734964" ref="index:about:portfolio:curriculum:contact:delirio:manifesto-16:las-carmelitas:divino:doña-tota:bardot:palabras-de-aliento:su-chicle-y-yo:embarque-de-mar:el-mediador:ticket-to-fly:pizza-break:brasil:delirio-display"/>
+    <file name="nombre.png" crc="4083525477" ref="index:about:portfolio:curriculum:contact:delirio:manifesto-16:las-carmelitas:divino:doña-tota:bardot:palabras-de-aliento:su-chicle-y-yo:embarque-de-mar:el-mediador:ticket-to-fly:pizza-break:brasil:delirio-display"/>
+    <file name="1.png" crc="400233414" ref="index:curriculum"/>
+    <file name="u504-4.png" crc="355119042" ref="index"/>
+    <file name="foto.jpg" crc="3959218337" ref="index"/>
+    <file name="cuadros.gif" crc="3800904265" ref="index"/>
+    <file name="manifesto.gif" crc="3831779383" ref="index"/>
+    <file name="hello.gif" crc="47782020" ref="index"/>
+    <file name="k.png" crc="4138248952" ref="index:about:portfolio:curriculum:contact:delirio:manifesto-16:las-carmelitas:divino:doña-tota:bardot:palabras-de-aliento:su-chicle-y-yo:embarque-de-mar:el-mediador:ticket-to-fly:pizza-break:brasil:delirio-display"/>
+    <file name="u491-4.png" crc="382546848" ref="index:about:portfolio:curriculum:contact:delirio:manifesto-16:las-carmelitas:divino:doña-tota:bardot:palabras-de-aliento:su-chicle-y-yo:embarque-de-mar:el-mediador:ticket-to-fly:pizza-break:brasil:delirio-display"/>
+    <file name="u477-7.png" crc="177832563" ref="index:about:portfolio:curriculum:contact:delirio:manifesto-16:las-carmelitas:divino:doña-tota:bardot:palabras-de-aliento:su-chicle-y-yo:embarque-de-mar:el-mediador:ticket-to-fly:pizza-break:brasil:delirio-display"/>
+    <file name="u487-4.png" crc="39287861" ref="index:about:portfolio:curriculum:contact:delirio:manifesto-16:las-carmelitas:divino:doña-tota:bardot:palabras-de-aliento:su-chicle-y-yo:embarque-de-mar:el-mediador:ticket-to-fly:pizza-break:brasil:delirio-display"/>
+    <file name="u488-4.png" crc="116990190" ref="index:about:portfolio:curriculum:contact:delirio:manifesto-16:las-carmelitas:divino:doña-tota:bardot:palabras-de-aliento:su-chicle-y-yo:embarque-de-mar:el-mediador:ticket-to-fly:pizza-break:brasil:delirio-display"/>
+    <file name="u489-4.png" crc="4280927604" ref="index:about:portfolio:curriculum:contact:delirio:manifesto-16:las-carmelitas:divino:doña-tota:bardot:palabras-de-aliento:su-chicle-y-yo:embarque-de-mar:el-mediador:ticket-to-fly:pizza-break:brasil:delirio-display"/>
+    <file name="red.png" crc="4292222113" ref="index:about:portfolio:curriculum:contact:delirio:manifesto-16:las-carmelitas:divino:doña-tota:bardot:palabras-de-aliento:su-chicle-y-yo:embarque-de-mar:el-mediador:ticket-to-fly:pizza-break:brasil:delirio-display"/>
+    <file name="3.jpg" crc="228585557" ref="about"/>
+    <file name="2.png" crc="3923379201" ref="about:curriculum:contact"/>
+    <file name="u525-6.png" crc="306383561" ref="about"/>
+    <file name="u571-4.png" crc="499599956" ref="about"/>
+    <file name="u2265-4.png" crc="4031581855" ref="about"/>
+    <file name="u572-4.png" crc="88178044" ref="about"/>
+    <file name="svg pegado 212256x212.svg" crc="289715531" ref="about"/>
+    <file name="svg pegado 212256x212_poster_.png" crc="4285043227" ref="about"/>
+    <file name="gif-who-iam.gif" crc="165357716" ref="about"/>
+    <file name="gif--karen-castellanos.gif" crc="421740531" ref="about"/>
+    <file name="6.jpg" crc="3902583088" ref="portfolio"/>
+    <file name="u591-4.png" crc="4083073130" ref="portfolio"/>
+    <file name="p1.jpg" crc="430794146" ref="portfolio"/>
+    <file name="p12.jpg" crc="4270669737" ref="portfolio"/>
+    <file name="p9.jpg" crc="3920851215" ref="portfolio"/>
+    <file name="p4.jpg" crc="3957364852" ref="portfolio"/>
+    <file name="p5.jpg" crc="4288121509" ref="portfolio"/>
+    <file name="p6.jpg" crc="236438230" ref="portfolio"/>
+    <file name="p13.jpg" crc="3905114350" ref="portfolio"/>
+    <file name="p10.jpg" crc="9916973" ref="portfolio"/>
+    <file name="p7.jpg" crc="155000674" ref="portfolio"/>
+    <file name="p8.jpg" crc="3918699059" ref="portfolio"/>
+    <file name="p11.jpg" crc="3907025756" ref="portfolio"/>
+    <file name="p2.jpg" crc="8585489" ref="portfolio"/>
+    <file name="p3.jpg" crc="119198769" ref="portfolio"/>
+    <file name="p14.jpg" crc="4107511431" ref="portfolio"/>
+    <file name="1530x687.png" crc="170736696" ref="curriculum"/>
+    <file name="curriculum.png" crc="4225765347" ref="curriculum"/>
+    <file name="u1073-4.png" crc="4169498982" ref="curriculum"/>
+    <file name="u2245-12.png" crc="3915148934" ref="contact"/>
+    <file name="u2246-4.png" crc="202029465" ref="contact"/>
+    <file name="logo.gif" crc="3932552865" ref="delirio"/>
+    <file name="u771-8.png" crc="124225854" ref="delirio"/>
+    <file name="u2292-4.png" crc="188443248" ref="delirio"/>
+    <file name="folder1.jpg" crc="152944238" ref="delirio"/>
+    <file name="sobres.jpg" crc="356473521" ref="delirio"/>
+    <file name="ícono.jpg" crc="3809076696" ref="delirio"/>
+    <file name="sobres2.jpg" crc="4060987728" ref="delirio"/>
+    <file name="pequeño.jpg" crc="104463149" ref="delirio"/>
+    <file name="hojas2.jpg" crc="504511776" ref="delirio"/>
+    <file name="hojasm.jpg" crc="123926778" ref="delirio"/>
+    <file name="gif.gif" crc="430121124" ref="manifesto-16"/>
+    <file name="u2289-4.png" crc="4253403753" ref="manifesto-16"/>
+    <file name="u800-7.png" crc="4261622031" ref="manifesto-16"/>
+    <file name="cayendo.jpg" crc="3834996133" ref="manifesto-16"/>
+    <file name="all.jpg" crc="24402308" ref="manifesto-16"/>
+    <file name="11.jpg" crc="4020317631" ref="manifesto-16"/>
+    <file name="hojas.jpg" crc="4116752686" ref="manifesto-16"/>
+    <file name="abrigo.jpg" crc="36182550" ref="manifesto-16"/>
+    <file name="tras.jpg" crc="37178889" ref="manifesto-16"/>
+    <file name="prueba2.jpg" crc="3942839340" ref="manifesto-16"/>
+    <file name="hojas zoom.jpg" crc="3990182110" ref="manifesto-16"/>
+    <file name="1.jpg" crc="482536128" ref="las-carmelitas"/>
+    <file name="u2294-4.png" crc="4253403753" ref="las-carmelitas"/>
+    <file name="u1063-9.png" crc="136293246" ref="las-carmelitas"/>
+    <file name="img_9615.jpg" crc="313140589" ref="las-carmelitas"/>
+    <file name="img_9668.jpg" crc="532417425" ref="las-carmelitas"/>
+    <file name="img_9666.jpg" crc="39324708" ref="las-carmelitas"/>
+    <file name="img_9633.jpg" crc="442876333" ref="las-carmelitas"/>
+    <file name="img_9631.jpg" crc="3848363862" ref="las-carmelitas"/>
+    <file name="img_9628.jpg" crc="3767384365" ref="las-carmelitas"/>
+    <file name="etiqueta.jpg" crc="327130222" ref="las-carmelitas"/>
+    <file name="img_9622.jpg" crc="4204345839" ref="las-carmelitas"/>
+    <file name="tarjetas.jpg" crc="85277381" ref="las-carmelitas"/>
+    <file name="4.jpg" crc="467490903" ref="las-carmelitas"/>
+    <file name="42.jpg" crc="517846104" ref="las-carmelitas"/>
+    <file name="2.jpg" crc="4108439341" ref="las-carmelitas"/>
+    <file name="3 page brochure mockup.jpg" crc="278963466" ref="las-carmelitas"/>
+    <file name="postal.jpg" crc="219448387" ref="las-carmelitas"/>
+    <file name="sobre.jpg" crc="4171225818" ref="las-carmelitas"/>
+    <file name="hojas3.jpg" crc="4139906941" ref="las-carmelitas"/>
+    <file name="mockup tarjetas.jpg" crc="284681040" ref="las-carmelitas"/>
+    <file name="img_9750_prueba.jpg" crc="77059118" ref="divino"/>
+    <file name="u2304-4.png" crc="4253403753" ref="divino"/>
+    <file name="u1148-5.png" crc="4003489050" ref="divino"/>
+    <file name="img_9814.jpg" crc="4245507673" ref="divino"/>
+    <file name="img_9810.jpg" crc="20158730" ref="divino"/>
+    <file name="img_9777.jpg" crc="3982101154" ref="divino"/>
+    <file name="img_9804.jpg" crc="405595618" ref="divino"/>
+    <file name="img_9805.jpg" crc="4188729083" ref="divino"/>
+    <file name="all2.jpg" crc="265882841" ref="divino"/>
+    <file name="divino all.jpg" crc="3921924599" ref="divino"/>
+    <file name="img_9753.jpg" crc="534735511" ref="divino"/>
+    <file name="img_9785.jpg" crc="4285871282" ref="divino"/>
+    <file name="img_9852.jpg" crc="3911614715" ref="divino"/>
+    <file name="logo2.jpg" crc="51124130" ref="doña-tota"/>
+    <file name="u2296-4.png" crc="4253403753" ref="doña-tota"/>
+    <file name="u1250-12.png" crc="4160487867" ref="doña-tota"/>
+    <file name="hojas4.jpg" crc="3901210284" ref="doña-tota"/>
+    <file name="bussines card1.jpg" crc="486065997" ref="doña-tota"/>
+    <file name="sobre2.jpg" crc="4166673029" ref="doña-tota"/>
+    <file name="all - copia.jpg" crc="334965907" ref="doña-tota"/>
+    <file name="rectangular-cardboard-boxes-mockup.jpg" crc="3932778800" ref="doña-tota"/>
+    <file name="1 empaque.jpg" crc="222062074" ref="doña-tota"/>
+    <file name="brown paper bag mockup.jpg" crc="536695239" ref="doña-tota"/>
+    <file name="04_burger_bar_psd_mockup.jpg" crc="4055198177" ref="doña-tota"/>
+    <file name="banner.jpg" crc="435713008" ref="bardot"/>
+    <file name="u2298-4.png" crc="4253403753" ref="bardot"/>
+    <file name="u1355-5.png" crc="4156404231" ref="bardot"/>
+    <file name="banner icono.jpg" crc="4266987817" ref="bardot"/>
+    <file name="tarjetas2.jpg" crc="4064138280" ref="bardot"/>
+    <file name="sobre3.jpg" crc="3908255804" ref="bardot"/>
+    <file name="booklet1.jpg" crc="4155258157" ref="bardot"/>
+    <file name="booklet2.jpg" crc="3838028075" ref="bardot"/>
+    <file name="largo 2.jpg" crc="328760375" ref="bardot"/>
+    <file name="foto3_karen.jpg" crc="459437829" ref="bardot"/>
+    <file name="foto2_karen.jpg" crc="262736163" ref="bardot"/>
+    <file name="15.jpg" crc="41690388" ref="palabras-de-aliento"/>
+    <file name="u2300-4.png" crc="490014109" ref="palabras-de-aliento"/>
+    <file name="u1489-13.png" crc="4036080831" ref="palabras-de-aliento"/>
+    <file name="22.jpg" crc="470297061" ref="palabras-de-aliento"/>
+    <file name="43.jpg" crc="368670559" ref="palabras-de-aliento"/>
+    <file name="32.jpg" crc="438997909" ref="palabras-de-aliento"/>
+    <file name="5.jpg" crc="263639324" ref="palabras-de-aliento"/>
+    <file name="9.jpg" crc="4023976667" ref="palabras-de-aliento"/>
+    <file name="10.jpg" crc="408376940" ref="palabras-de-aliento"/>
+    <file name="14.jpg" crc="83968640" ref="palabras-de-aliento"/>
+    <file name="13.jpg" crc="3925323471" ref="palabras-de-aliento"/>
+    <file name="112.jpg" crc="208133087" ref="palabras-de-aliento"/>
+    <file name="12.jpg" crc="3917065218" ref="palabras-de-aliento"/>
+    <file name="banner2.jpg" crc="4274736935" ref="su-chicle-y-yo"/>
+    <file name="u2302-4.png" crc="325092382" ref="su-chicle-y-yo"/>
+    <file name="u1598-11.png" crc="211728762" ref="su-chicle-y-yo"/>
+    <file name="postales2.jpg" crc="79316617" ref="su-chicle-y-yo"/>
+    <file name="ipad.jpg" crc="3857468381" ref="su-chicle-y-yo"/>
+    <file name="postersuchicle1.jpg" crc="491386867" ref="su-chicle-y-yo"/>
+    <file name="postersuchicle2.jpg" crc="3986326987" ref="su-chicle-y-yo"/>
+    <file name="postersuchicle5.jpg" crc="3774814437" ref="su-chicle-y-yo"/>
+    <file name="postersuchicle4.jpg" crc="330086854" ref="su-chicle-y-yo"/>
+    <file name="postersuchicle3.jpg" crc="338896273" ref="su-chicle-y-yo"/>
+    <file name="banner1.jpg" crc="3820439718" ref="embarque-de-mar"/>
+    <file name="u2306-4.png" crc="188443248" ref="embarque-de-mar"/>
+    <file name="u1700-7.png" crc="4130566457" ref="embarque-de-mar"/>
+    <file name="banner3.jpg" crc="467455596" ref="embarque-de-mar"/>
+    <file name="slogan.jpg" crc="424732019" ref="embarque-de-mar"/>
+    <file name="tarjetas22.jpg" crc="130542373" ref="embarque-de-mar"/>
+    <file name="hojas5.jpg" crc="86688711" ref="embarque-de-mar"/>
+    <file name="menu2.jpg" crc="4033492437" ref="embarque-de-mar"/>
+    <file name="menu.jpg" crc="4288913278" ref="embarque-de-mar"/>
+    <file name="all carta.jpg" crc="4068978687" ref="embarque-de-mar"/>
+    <file name="banner32.jpg" crc="476158718" ref="el-mediador"/>
+    <file name="u2310-4.png" crc="313878982" ref="el-mediador"/>
+    <file name="u1792-13.png" crc="102332871" ref="el-mediador"/>
+    <file name="banner22.jpg" crc="331854631" ref="el-mediador"/>
+    <file name="brochureport.jpg" crc="486024805" ref="el-mediador"/>
+    <file name="33.jpg" crc="363035099" ref="el-mediador"/>
+    <file name="52.jpg" crc="3889040252" ref="el-mediador"/>
+    <file name="23.jpg" crc="4015385168" ref="el-mediador"/>
+    <file name="juego.jpg" crc="504538782" ref="el-mediador"/>
+    <file name="tyarjeta.jpg" crc="4098868046" ref="el-mediador"/>
+    <file name="stationery2.jpg" crc="398022805" ref="el-mediador"/>
+    <file name="44.jpg" crc="3912887992" ref="el-mediador"/>
+    <file name="24.jpg" crc="4023852022" ref="ticket-to-fly"/>
+    <file name="u2312-4.png" crc="240467987" ref="ticket-to-fly"/>
+    <file name="u1902-9.png" crc="4162735454" ref="ticket-to-fly"/>
+    <file name="34.jpg" crc="318957931" ref="ticket-to-fly"/>
+    <file name="poster.jpg" crc="3767890910" ref="ticket-to-fly"/>
+    <file name="16.jpg" crc="473087874" ref="pizza-break"/>
+    <file name="u2314-4.png" crc="4253403753" ref="pizza-break"/>
+    <file name="u1961-16.png" crc="514357937" ref="pizza-break"/>
+    <file name="35.jpg" crc="4004623470" ref="pizza-break"/>
+    <file name="92.jpg" crc="3859102279" ref="pizza-break"/>
+    <file name="102.jpg" crc="267025900" ref="pizza-break"/>
+    <file name="122.jpg" crc="161560300" ref="pizza-break"/>
+    <file name="132.jpg" crc="4134628781" ref="pizza-break"/>
+    <file name="222.jpg" crc="3978686036" ref="pizza-break"/>
+    <file name="20.jpg" crc="266318357" ref="pizza-break"/>
+    <file name="142.jpg" crc="4234427573" ref="pizza-break"/>
+    <file name="8.jpg" crc="511891367" ref="pizza-break"/>
+    <file name="53.jpg" crc="4192489939" ref="pizza-break"/>
+    <file name="45.jpg" crc="4091715552" ref="pizza-break"/>
+    <file name="25.jpg" crc="401483926" ref="brasil"/>
+    <file name="u2316-4.png" crc="401166871" ref="brasil"/>
+    <file name="u2078-8.png" crc="4134276255" ref="brasil"/>
+    <file name="17.jpg" crc="236132082" ref="brasil"/>
+    <file name="dis.png" crc="3947122716" ref="delirio-display"/>
+    <file name="u2318-4.png" crc="4075161133" ref="delirio-display"/>
+    <file name="u2152-8.png" crc="147902757" ref="delirio-display"/>
+    <file name="a.png" crc="3819337184" ref="delirio-display"/>
+    <file name="22.png" crc="4030514220" ref="delirio-display"/>
+    <file name="3.png" crc="4023296291" ref="delirio-display"/>
+    <file name="4.png" crc="478201815" ref="delirio-display"/>
+    <file name="5.png" crc="3840134527" ref="delirio-display"/>
+    <file name="6.png" crc="4262128321" ref="delirio-display"/>
+  </folder>
+  <file name="index.html" crc="384305652" mt="1485651629087" redirect="true"/>
+  <file name="about.html" crc="323430530" mt="1485651629087" redirect="true"/>
+  <file name="portfolio.html" crc="3947531506" mt="1485651629087" redirect="true"/>
+  <file name="curriculum.html" crc="4224049576" mt="1485651629087" redirect="true"/>
+  <file name="contact.html" crc="3986434987" mt="1485651629087" redirect="true"/>
+  <file name="delirio.html" crc="130305906" mt="1485651629087" redirect="true"/>
+  <file name="manifesto-16.html" crc="3792515210" mt="1485651629087" redirect="true"/>
+  <file name="las-carmelitas.html" crc="223332554" mt="1485651629087" redirect="true"/>
+  <file name="divino.html" crc="128236229" mt="1485651629087" redirect="true"/>
+  <file name="doña-tota.html" crc="3984448196" mt="1485651629087" redirect="true"/>
+  <file name="bardot.html" crc="3920938453" mt="1485651629087" redirect="true"/>
+  <file name="palabras-de-aliento.html" crc="107825544" mt="1485651629087" redirect="true"/>
+  <file name="su-chicle-y-yo.html" crc="4012955396" mt="1485651629087" redirect="true"/>
+  <file name="embarque-de-mar.html" crc="4082189903" mt="1485651629087" redirect="true"/>
+  <file name="el-mediador.html" crc="3795002176" mt="1485651629087" redirect="true"/>
+  <file name="ticket-to-fly.html" crc="198324646" mt="1485651629087" redirect="true"/>
+  <file name="pizza-break.html" crc="4196152513" mt="1485651629087" redirect="true"/>
+  <file name="brasil.html" crc="4258363467" mt="1485651629087" redirect="true"/>
+  <file name="delirio-display.html" crc="339940342" mt="1485651629087" redirect="true"/>
+</manifest>
